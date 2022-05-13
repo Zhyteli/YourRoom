@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "137902036027",
-    "project_id": "your-room-d6977",
-    "storage_bucket": "your-room-d6977.appspot.com"
+    "project_number": "90495742967",
+    "firebase_url": "https://yourroom-366bb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yourroom-366bb",
+    "storage_bucket": "yourroom-366bb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:137902036027:android:2e651630bb078d02c9f81e",
+        "mobilesdk_app_id": "1:90495742967:android:1018e814b1bb3c01a6b4f2",
         "android_client_info": {
           "package_name": "com.example.yourroom"
         }
       },
       "oauth_client": [
         {
-          "client_id": "137902036027-fcushl93ajfj5cfqr9pt44jih6g9n5fs.apps.googleusercontent.com",
+          "client_id": "90495742967-7iv2q4mt712prfd628pe5p84g92kihs6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxYOD77LpLApRp9TBxcNBuCjCztLH59MM"
+          "current_key": "AIzaSyDTdA0iYBtLHd444ClvNGDdzq46801nb5Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "137902036027-fcushl93ajfj5cfqr9pt44jih6g9n5fs.apps.googleusercontent.com",
+              "client_id": "90495742967-7iv2q4mt712prfd628pe5p84g92kihs6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

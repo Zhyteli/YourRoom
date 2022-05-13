@@ -2,4 +2,38 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/mobile_navigation" />
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/loginActivity">
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.yourroom.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <action
+        android:id="@+id/action_loginActivity_to_searchActivity"
+        app:destination="@id/searchActivity" />
+
+    <activity
+        android:id="@+id/searchActivity"
+        android:name="com.example.yourroom.SearchActivity"
+        android:label="SearchActivity" />
+    <activity
+        android:id="@+id/addActivity"
+        android:name="com.example.yourroom.AddActivity"
+        android:label="AddActivity" />
+    <activity
+        android:id="@+id/favoritesActivity"
+        android:name="com.example.yourroom.FavoritesActivity"
+        android:label="FavoritesActivity" />
+    <activity
+        android:id="@+id/notificationsActivity"
+        android:name="com.example.yourroom.NotificationsActivity"
+        android:label="NotificationsActivity" />
+    <activity
+        android:id="@+id/profileActivity"
+        android:name="com.example.yourroom.ProfileActivity"
+        android:label="activity_profile"
+        tools:layout="@layout/activity_profile" />
+
+
+</navigation>

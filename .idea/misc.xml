@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_add.xml" value="0.20436083796494228" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_favorites.xml" value="0.20521590423257802" />
         <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_notifications.xml" value="0.20436083796494228" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_profile.xml" value="0.20521590423257802" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/fragment.xml" value="0.20436083796494228" />
+        <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/layout/fragment_blank.xml" value="0.20521590423257802" />
         <entry key="..\:/Androi/AndroidStudioProjects/YourRoom/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18958333333333333" />
       </map>
     </option>
